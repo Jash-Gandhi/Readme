@@ -1,6 +1,6 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Jash Gandhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 - 🔭 I’m currently working on **Classification and optimization of brain tumors through MRI using Convolution neural network (Major Project)**
 
